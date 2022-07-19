@@ -1,4 +1,4 @@
-### Hi there 👋
+Hola 👋 Gracias por pasarte por mi repositorio tengo algunos proyectos para que visualices, casi todos los publico como github pages, pasa adelante!
 
 <!--
 **edgardorms/edgardorms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
